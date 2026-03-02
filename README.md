@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://www.udemy.com/certificate/UC-0197614f-f9e5-49d0-9ea0-be69f0e9447e/">
-<img src="https://assets.dio.me/HjIZz5dx3raBKboBehiLVC_XuF3sFc99XPLL7c-S4II/f:webp/q:80" width="110"/>
+  <img src="https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png" width="110"/>
 </a>
 
 <a href="https://hermes.dio.me/certificates/IYEPOGBR.pdf">
